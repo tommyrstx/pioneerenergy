@@ -49,6 +49,9 @@ export function proxy(request: NextRequest) {
   const pass = process.env.DASHBOARD_PASS;
 
   if (!user || !pass) {
+    // Names only, never values. Shows up in the Vercel project's logs.
+    const missing = [!user && "DASHBOARD_USER", !pass && "DASHBOARD_PASS"].filter(Boolean).join(", ");
+    console.error(`Basic Auth disabled: missing ${missing} (VERCEL_ENV=${process.env.VERCEL_ENV ?? "unset"})`);
     return new NextResponse("Dashboard credentials are not configured.", {
       status: 503,
       headers: { "X-Robots-Tag": ROBOTS, "Cache-Control": "no-store" },
