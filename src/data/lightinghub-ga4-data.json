@@ -1,0 +1,3157 @@
+{
+  "meta": {
+    "site": "lightinghub.sg",
+    "ga4_property_id": "517079475",
+    "source": "GA4 via Supermetrics",
+    "pulled_on": "2026-11-15",
+    "data_starts": "2025-12 (property has no data before mid Dec 2025, so no year-on-year comparison is possible)",
+    "period": "2025-12-01 to 2026-11-15 (Nov 2026 = 15 days only)",
+    "timezone_note": "Monthly series pulled in Asia/Singapore time; landing page, device x channel, language and source tables in UTC, so totals can differ by under 1%.",
+    "currency_note": "GA4 returned no currency field. Revenue assumed SGD, unverified.",
+    "caveats": [
+      "Purchase tracking is unreliable: 5 purchases recorded in total, 2 with S$0 revenue.",
+      "Direct traffic in Jun 2026 and Nov 2026 is inflated by non-Singapore bot-like traffic. Use the Singapore series for trend reporting.",
+      "Search Console not yet connected: no query, impression, CTR or ranking data."
+    ]
+  },
+  "headline": {
+    "organic_sessions_total": 25680,
+    "organic_sessions_singapore_total": 23892,
+    "organic_feb_2026": 700,
+    "organic_oct_2026": 5544,
+    "organic_growth_feb_to_oct_x": 7.9,
+    "organic_singapore_feb": 619,
+    "organic_singapore_oct": 5149,
+    "organic_singapore_growth_x": 8.3,
+    "organic_nov_first_15_days": 2599,
+    "organic_nov_daily_avg": 173.3,
+    "organic_oct_daily_avg": 178.8,
+    "homepage_share_of_organic_pct": 46.9,
+    "organic_share_of_singapore_sessions_pct": 59.4,
+    "recorded_purchases": 5,
+    "recorded_revenue": 254.76,
+    "purchases_attributed_to_organic": 0,
+    "key_events_configured": [
+      "purchase"
+    ],
+    "ai_referrals_total": 964,
+    "ai_referrals_jun": 57,
+    "ai_referrals_oct": 192,
+    "chatgpt_share_of_ai_pct": 95.3,
+    "chatgpt_sessions_total": 919,
+    "chinese_browser_share_singapore_pct": 9.0
+  },
+  "monthly": [
+    {
+      "month": "2025-12",
+      "partial": false,
+      "days_covered": null,
+      "all_traffic": {
+        "sessions": 436,
+        "engaged_sessions": 315,
+        "users": 329,
+        "engagement_rate_pct": 72.2
+      },
+      "singapore_traffic": {
+        "sessions": 355,
+        "engaged_sessions": 272,
+        "engagement_rate_pct": 76.6,
+        "share_of_all_pct": 81.4
+      },
+      "organic_all": {
+        "sessions": 284,
+        "engaged_sessions": 223,
+        "engagement_rate_pct": 78.5
+      },
+      "organic_singapore": {
+        "sessions": 255,
+        "engaged_sessions": 206,
+        "engagement_rate_pct": 80.8
+      },
+      "organic_by_device": {
+        "desktop": 111,
+        "mobile": 170,
+        "tablet": 4
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 14
+      },
+      "ai_referrals_total": 14
+    },
+    {
+      "month": "2026-01",
+      "partial": false,
+      "days_covered": null,
+      "all_traffic": {
+        "sessions": 2652,
+        "engaged_sessions": 1848,
+        "users": 1881,
+        "engagement_rate_pct": 69.7
+      },
+      "singapore_traffic": {
+        "sessions": 2192,
+        "engaged_sessions": 1628,
+        "engagement_rate_pct": 74.3,
+        "share_of_all_pct": 82.7
+      },
+      "organic_all": {
+        "sessions": 1816,
+        "engaged_sessions": 1365,
+        "engagement_rate_pct": 75.2
+      },
+      "organic_singapore": {
+        "sessions": 1605,
+        "engaged_sessions": 1249,
+        "engagement_rate_pct": 77.8
+      },
+      "organic_by_device": {
+        "desktop": 708,
+        "mobile": 1084,
+        "tablet": 24
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 63,
+        "copilot": 4,
+        "gemini": 1,
+        "perplexity": 4
+      },
+      "ai_referrals_total": 72
+    },
+    {
+      "month": "2026-02",
+      "partial": false,
+      "days_covered": null,
+      "all_traffic": {
+        "sessions": 1334,
+        "engaged_sessions": 803,
+        "users": 980,
+        "engagement_rate_pct": 60.2
+      },
+      "singapore_traffic": {
+        "sessions": 959,
+        "engaged_sessions": 688,
+        "engagement_rate_pct": 71.7,
+        "share_of_all_pct": 71.9
+      },
+      "organic_all": {
+        "sessions": 700,
+        "engaged_sessions": 535,
+        "engagement_rate_pct": 76.4
+      },
+      "organic_singapore": {
+        "sessions": 619,
+        "engaged_sessions": 493,
+        "engagement_rate_pct": 79.6
+      },
+      "organic_by_device": {
+        "desktop": 262,
+        "mobile": 428,
+        "tablet": 9
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 27,
+        "perplexity": 2
+      },
+      "ai_referrals_total": 29
+    },
+    {
+      "month": "2026-03",
+      "partial": false,
+      "days_covered": null,
+      "all_traffic": {
+        "sessions": 3276,
+        "engaged_sessions": 1717,
+        "users": 2279,
+        "engagement_rate_pct": 52.4
+      },
+      "singapore_traffic": {
+        "sessions": 2572,
+        "engaged_sessions": 1552,
+        "engagement_rate_pct": 60.3,
+        "share_of_all_pct": 78.5
+      },
+      "organic_all": {
+        "sessions": 1270,
+        "engaged_sessions": 984,
+        "engagement_rate_pct": 77.5
+      },
+      "organic_singapore": {
+        "sessions": 1214,
+        "engaged_sessions": 940,
+        "engagement_rate_pct": 77.4
+      },
+      "organic_by_device": {
+        "desktop": 426,
+        "mobile": 829,
+        "tablet": 19
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 40,
+        "claude": 2,
+        "gemini": 1
+      },
+      "ai_referrals_total": 43
+    },
+    {
+      "month": "2026-04",
+      "partial": false,
+      "days_covered": null,
+      "all_traffic": {
+        "sessions": 2398,
+        "engaged_sessions": 1330,
+        "users": 1737,
+        "engagement_rate_pct": 55.5
+      },
+      "singapore_traffic": {
+        "sessions": 1905,
+        "engaged_sessions": 1215,
+        "engagement_rate_pct": 63.8,
+        "share_of_all_pct": 79.4
+      },
+      "organic_all": {
+        "sessions": 1058,
+        "engaged_sessions": 830,
+        "engagement_rate_pct": 78.4
+      },
+      "organic_singapore": {
+        "sessions": 1003,
+        "engaged_sessions": 789,
+        "engagement_rate_pct": 78.7
+      },
+      "organic_by_device": {
+        "desktop": 361,
+        "mobile": 684,
+        "tablet": 16
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 26,
+        "copilot": 1,
+        "gemini": 2
+      },
+      "ai_referrals_total": 29
+    },
+    {
+      "month": "2026-05",
+      "partial": false,
+      "days_covered": null,
+      "all_traffic": {
+        "sessions": 3648,
+        "engaged_sessions": 1952,
+        "users": 2568,
+        "engagement_rate_pct": 53.5
+      },
+      "singapore_traffic": {
+        "sessions": 2748,
+        "engaged_sessions": 1799,
+        "engagement_rate_pct": 65.5,
+        "share_of_all_pct": 75.3
+      },
+      "organic_all": {
+        "sessions": 1105,
+        "engaged_sessions": 833,
+        "engagement_rate_pct": 75.4
+      },
+      "organic_singapore": {
+        "sessions": 1022,
+        "engaged_sessions": 786,
+        "engagement_rate_pct": 76.9
+      },
+      "organic_by_device": {
+        "desktop": 407,
+        "mobile": 687,
+        "tablet": 12
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 60,
+        "gemini": 1,
+        "perplexity": 1
+      },
+      "ai_referrals_total": 62
+    },
+    {
+      "month": "2026-06",
+      "partial": false,
+      "days_covered": null,
+      "all_traffic": {
+        "sessions": 9161,
+        "engaged_sessions": 2843,
+        "users": 7532,
+        "engagement_rate_pct": 31.0
+      },
+      "singapore_traffic": {
+        "sessions": 4406,
+        "engaged_sessions": 2449,
+        "engagement_rate_pct": 55.6,
+        "share_of_all_pct": 48.1
+      },
+      "organic_all": {
+        "sessions": 1770,
+        "engaged_sessions": 1285,
+        "engagement_rate_pct": 72.6
+      },
+      "organic_singapore": {
+        "sessions": 1665,
+        "engaged_sessions": 1218,
+        "engagement_rate_pct": 73.2
+      },
+      "organic_by_device": {
+        "desktop": 567,
+        "mobile": 1180,
+        "tablet": 23
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 56,
+        "gemini": 1
+      },
+      "ai_referrals_total": 57
+    },
+    {
+      "month": "2026-07",
+      "partial": false,
+      "days_covered": null,
+      "all_traffic": {
+        "sessions": 6365,
+        "engaged_sessions": 3736,
+        "users": 4225,
+        "engagement_rate_pct": 58.7
+      },
+      "singapore_traffic": {
+        "sessions": 5333,
+        "engaged_sessions": 3497,
+        "engagement_rate_pct": 65.6,
+        "share_of_all_pct": 83.8
+      },
+      "organic_all": {
+        "sessions": 2969,
+        "engaged_sessions": 2095,
+        "engagement_rate_pct": 70.6
+      },
+      "organic_singapore": {
+        "sessions": 2800,
+        "engaged_sessions": 1975,
+        "engagement_rate_pct": 70.5
+      },
+      "organic_by_device": {
+        "desktop": 1164,
+        "mobile": 1788,
+        "tablet": 43
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 109,
+        "copilot": 4,
+        "gemini": 4
+      },
+      "ai_referrals_total": 117
+    },
+    {
+      "month": "2026-08",
+      "partial": false,
+      "days_covered": null,
+      "all_traffic": {
+        "sessions": 5549,
+        "engaged_sessions": 3386,
+        "users": 3532,
+        "engagement_rate_pct": 61.0
+      },
+      "singapore_traffic": {
+        "sessions": 4725,
+        "engaged_sessions": 3124,
+        "engagement_rate_pct": 66.1,
+        "share_of_all_pct": 85.2
+      },
+      "organic_all": {
+        "sessions": 3142,
+        "engaged_sessions": 2083,
+        "engagement_rate_pct": 66.3
+      },
+      "organic_singapore": {
+        "sessions": 2889,
+        "engaged_sessions": 1953,
+        "engagement_rate_pct": 67.6
+      },
+      "organic_by_device": {
+        "desktop": 1264,
+        "mobile": 1789,
+        "tablet": 34
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 103,
+        "copilot": 3,
+        "gemini": 1
+      },
+      "ai_referrals_total": 107
+    },
+    {
+      "month": "2026-09",
+      "partial": false,
+      "days_covered": null,
+      "all_traffic": {
+        "sessions": 5596,
+        "engaged_sessions": 3262,
+        "users": 4067,
+        "engagement_rate_pct": 58.3
+      },
+      "singapore_traffic": {
+        "sessions": 4596,
+        "engaged_sessions": 2933,
+        "engagement_rate_pct": 63.8,
+        "share_of_all_pct": 82.1
+      },
+      "organic_all": {
+        "sessions": 3423,
+        "engaged_sessions": 2288,
+        "engagement_rate_pct": 66.8
+      },
+      "organic_singapore": {
+        "sessions": 3240,
+        "engaged_sessions": 2167,
+        "engagement_rate_pct": 66.9
+      },
+      "organic_by_device": {
+        "desktop": 1508,
+        "mobile": 1914,
+        "tablet": 53
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 119,
+        "copilot": 2,
+        "gemini": 6,
+        "perplexity": 1
+      },
+      "ai_referrals_total": 128
+    },
+    {
+      "month": "2026-10",
+      "partial": false,
+      "days_covered": null,
+      "all_traffic": {
+        "sessions": 8518,
+        "engaged_sessions": 4750,
+        "users": 5787,
+        "engagement_rate_pct": 55.8
+      },
+      "singapore_traffic": {
+        "sessions": 6764,
+        "engaged_sessions": 4270,
+        "engagement_rate_pct": 63.1,
+        "share_of_all_pct": 79.4
+      },
+      "organic_all": {
+        "sessions": 5544,
+        "engaged_sessions": 3636,
+        "engagement_rate_pct": 65.6
+      },
+      "organic_singapore": {
+        "sessions": 5149,
+        "engaged_sessions": 3405,
+        "engagement_rate_pct": 66.1
+      },
+      "organic_by_device": {
+        "desktop": 2064,
+        "mobile": 3358,
+        "tablet": 117
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 190,
+        "gemini": 1,
+        "perplexity": 1
+      },
+      "ai_referrals_total": 192
+    },
+    {
+      "month": "2026-11",
+      "partial": true,
+      "days_covered": 15,
+      "all_traffic": {
+        "sessions": 10963,
+        "engaged_sessions": 2602,
+        "users": 9757,
+        "engagement_rate_pct": 23.7
+      },
+      "singapore_traffic": {
+        "sessions": 3689,
+        "engaged_sessions": 2083,
+        "engagement_rate_pct": 56.5,
+        "share_of_all_pct": 33.6
+      },
+      "organic_all": {
+        "sessions": 2599,
+        "engaged_sessions": 1751,
+        "engagement_rate_pct": 67.4
+      },
+      "organic_singapore": {
+        "sessions": 2431,
+        "engaged_sessions": 1649,
+        "engagement_rate_pct": 67.8
+      },
+      "organic_by_device": {
+        "desktop": 1027,
+        "mobile": 1518,
+        "tablet": 60
+      },
+      "ai_referrals_by_source": {
+        "chatgpt": 112,
+        "claude": 1,
+        "gemini": 1
+      },
+      "ai_referrals_total": 114
+    }
+  ],
+  "channels_total_all_countries": [
+    {
+      "channel": "Direct",
+      "sessions": 31176,
+      "engaged_sessions": 8823,
+      "engagement_rate_pct": 28.3,
+      "share_pct": 51.9
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 25680,
+      "engaged_sessions": 17908,
+      "engagement_rate_pct": 69.7,
+      "share_pct": 42.7
+    },
+    {
+      "channel": "Referral",
+      "sessions": 1517,
+      "engaged_sessions": 1007,
+      "engagement_rate_pct": 66.4,
+      "share_pct": 2.5
+    },
+    {
+      "channel": "AI Assistant",
+      "sessions": 673,
+      "engaged_sessions": 419,
+      "engagement_rate_pct": 62.3,
+      "share_pct": 1.1
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 500,
+      "engaged_sessions": 321,
+      "engagement_rate_pct": 64.2,
+      "share_pct": 0.8
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 464,
+      "engaged_sessions": 152,
+      "engagement_rate_pct": 32.8,
+      "share_pct": 0.8
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 65,
+      "engaged_sessions": 46,
+      "engagement_rate_pct": 70.8,
+      "share_pct": 0.1
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 1,
+      "engaged_sessions": 1,
+      "engagement_rate_pct": 100.0,
+      "share_pct": 0.0
+    }
+  ],
+  "channels_total_singapore": [
+    {
+      "channel": "Organic Search",
+      "sessions": 23892,
+      "engaged_sessions": 16830,
+      "engagement_rate_pct": 70.4,
+      "share_pct": 59.4
+    },
+    {
+      "channel": "Direct",
+      "sessions": 13962,
+      "engaged_sessions": 7158,
+      "engagement_rate_pct": 51.3,
+      "share_pct": 34.7
+    },
+    {
+      "channel": "Referral",
+      "sessions": 1359,
+      "engaged_sessions": 926,
+      "engagement_rate_pct": 68.1,
+      "share_pct": 3.4
+    },
+    {
+      "channel": "AI Assistant",
+      "sessions": 624,
+      "engaged_sessions": 392,
+      "engagement_rate_pct": 62.8,
+      "share_pct": 1.6
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 317,
+      "engaged_sessions": 140,
+      "engagement_rate_pct": 44.2,
+      "share_pct": 0.8
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 52,
+      "engaged_sessions": 31,
+      "engagement_rate_pct": 59.6,
+      "share_pct": 0.1
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 38,
+      "engaged_sessions": 33,
+      "engagement_rate_pct": 86.8,
+      "share_pct": 0.1
+    }
+  ],
+  "channel_by_month_all_countries": [
+    {
+      "month": "2025-12",
+      "channel": "Direct",
+      "sessions": 133,
+      "engaged_sessions": 82,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2025-12",
+      "channel": "Organic Search",
+      "sessions": 284,
+      "engaged_sessions": 223,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2025-12",
+      "channel": "Referral",
+      "sessions": 4,
+      "engaged_sessions": 3,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2025-12",
+      "channel": "Unassigned",
+      "sessions": 14,
+      "engaged_sessions": 7,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-01",
+      "channel": "Direct",
+      "sessions": 737,
+      "engaged_sessions": 416,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-01",
+      "channel": "Organic Search",
+      "sessions": 1816,
+      "engaged_sessions": 1365,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-01",
+      "channel": "Referral",
+      "sessions": 42,
+      "engaged_sessions": 29,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-01",
+      "channel": "Unassigned",
+      "sessions": 59,
+      "engaged_sessions": 37,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-02",
+      "channel": "Direct",
+      "sessions": 581,
+      "engaged_sessions": 236,
+      "transactions": 2,
+      "purchase_revenue": 99.2483
+    },
+    {
+      "month": "2026-02",
+      "channel": "Organic Search",
+      "sessions": 700,
+      "engaged_sessions": 535,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-02",
+      "channel": "Referral",
+      "sessions": 30,
+      "engaged_sessions": 18,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-02",
+      "channel": "Unassigned",
+      "sessions": 22,
+      "engaged_sessions": 14,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-03",
+      "channel": "Direct",
+      "sessions": 1789,
+      "engaged_sessions": 606,
+      "transactions": 1,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-03",
+      "channel": "Organic Search",
+      "sessions": 1270,
+      "engaged_sessions": 984,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-03",
+      "channel": "Organic Social",
+      "sessions": 8,
+      "engaged_sessions": 4,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-03",
+      "channel": "Referral",
+      "sessions": 119,
+      "engaged_sessions": 96,
+      "transactions": 1,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-03",
+      "channel": "Unassigned",
+      "sessions": 51,
+      "engaged_sessions": 24,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-04",
+      "channel": "Direct",
+      "sessions": 1222,
+      "engaged_sessions": 426,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-04",
+      "channel": "Organic Search",
+      "sessions": 1058,
+      "engaged_sessions": 830,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-04",
+      "channel": "Organic Social",
+      "sessions": 12,
+      "engaged_sessions": 9,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-04",
+      "channel": "Referral",
+      "sessions": 76,
+      "engaged_sessions": 53,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-04",
+      "channel": "Unassigned",
+      "sessions": 33,
+      "engaged_sessions": 13,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-05",
+      "channel": "Direct",
+      "sessions": 2345,
+      "engaged_sessions": 984,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-05",
+      "channel": "Organic Search",
+      "sessions": 1105,
+      "engaged_sessions": 833,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-05",
+      "channel": "Organic Social",
+      "sessions": 27,
+      "engaged_sessions": 15,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-05",
+      "channel": "Referral",
+      "sessions": 118,
+      "engaged_sessions": 84,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-05",
+      "channel": "Unassigned",
+      "sessions": 55,
+      "engaged_sessions": 34,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-06",
+      "channel": "AI Assistant",
+      "sessions": 33,
+      "engaged_sessions": 19,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-06",
+      "channel": "Direct",
+      "sessions": 6991,
+      "engaged_sessions": 1403,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-06",
+      "channel": "Organic Search",
+      "sessions": 1770,
+      "engaged_sessions": 1285,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-06",
+      "channel": "Organic Social",
+      "sessions": 86,
+      "engaged_sessions": 43,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-06",
+      "channel": "Referral",
+      "sessions": 155,
+      "engaged_sessions": 81,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-06",
+      "channel": "Unassigned",
+      "sessions": 65,
+      "engaged_sessions": 15,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-07",
+      "channel": "AI Assistant",
+      "sessions": 109,
+      "engaged_sessions": 71,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-07",
+      "channel": "Direct",
+      "sessions": 2944,
+      "engaged_sessions": 1364,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-07",
+      "channel": "Organic Search",
+      "sessions": 2969,
+      "engaged_sessions": 2095,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-07",
+      "channel": "Organic Social",
+      "sessions": 149,
+      "engaged_sessions": 91,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-07",
+      "channel": "Referral",
+      "sessions": 300,
+      "engaged_sessions": 186,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-07",
+      "channel": "Unassigned",
+      "sessions": 27,
+      "engaged_sessions": 2,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-08",
+      "channel": "AI Assistant",
+      "sessions": 105,
+      "engaged_sessions": 73,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-08",
+      "channel": "Direct",
+      "sessions": 2020,
+      "engaged_sessions": 951,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-08",
+      "channel": "Organic Search",
+      "sessions": 3142,
+      "engaged_sessions": 2083,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-08",
+      "channel": "Organic Social",
+      "sessions": 31,
+      "engaged_sessions": 18,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-08",
+      "channel": "Referral",
+      "sessions": 375,
+      "engaged_sessions": 261,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-08",
+      "channel": "Unassigned",
+      "sessions": 9,
+      "engaged_sessions": 0,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-09",
+      "channel": "AI Assistant",
+      "sessions": 120,
+      "engaged_sessions": 81,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-09",
+      "channel": "Direct",
+      "sessions": 1907,
+      "engaged_sessions": 735,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-09",
+      "channel": "Organic Search",
+      "sessions": 3423,
+      "engaged_sessions": 2288,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-09",
+      "channel": "Organic Social",
+      "sessions": 130,
+      "engaged_sessions": 95,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-09",
+      "channel": "Referral",
+      "sessions": 174,
+      "engaged_sessions": 125,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-09",
+      "channel": "Unassigned",
+      "sessions": 17,
+      "engaged_sessions": 6,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-10",
+      "channel": "AI Assistant",
+      "sessions": 192,
+      "engaged_sessions": 105,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-10",
+      "channel": "Direct",
+      "sessions": 2499,
+      "engaged_sessions": 924,
+      "transactions": 1,
+      "purchase_revenue": 155.5156
+    },
+    {
+      "month": "2026-10",
+      "channel": "Organic Search",
+      "sessions": 5544,
+      "engaged_sessions": 3636,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-10",
+      "channel": "Organic Social",
+      "sessions": 44,
+      "engaged_sessions": 35,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-10",
+      "channel": "Referral",
+      "sessions": 85,
+      "engaged_sessions": 51,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-10",
+      "channel": "Unassigned",
+      "sessions": 17,
+      "engaged_sessions": 0,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-11",
+      "channel": "AI Assistant",
+      "sessions": 114,
+      "engaged_sessions": 70,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-11",
+      "channel": "Cross-network",
+      "sessions": 1,
+      "engaged_sessions": 1,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-11",
+      "channel": "Direct",
+      "sessions": 8008,
+      "engaged_sessions": 696,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-11",
+      "channel": "Organic Search",
+      "sessions": 2599,
+      "engaged_sessions": 1751,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-11",
+      "channel": "Organic Social",
+      "sessions": 13,
+      "engaged_sessions": 11,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-11",
+      "channel": "Paid Search",
+      "sessions": 65,
+      "engaged_sessions": 46,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-11",
+      "channel": "Referral",
+      "sessions": 39,
+      "engaged_sessions": 20,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    },
+    {
+      "month": "2026-11",
+      "channel": "Unassigned",
+      "sessions": 95,
+      "engaged_sessions": 0,
+      "transactions": 0,
+      "purchase_revenue": 0.0
+    }
+  ],
+  "channel_by_month_singapore": [
+    {
+      "month": "2025-12",
+      "channel": "Direct",
+      "sessions": 86,
+      "engaged_sessions": 59
+    },
+    {
+      "month": "2025-12",
+      "channel": "Organic Search",
+      "sessions": 255,
+      "engaged_sessions": 206
+    },
+    {
+      "month": "2025-12",
+      "channel": "Referral",
+      "sessions": 2,
+      "engaged_sessions": 2
+    },
+    {
+      "month": "2025-12",
+      "channel": "Unassigned",
+      "sessions": 12,
+      "engaged_sessions": 5
+    },
+    {
+      "month": "2026-01",
+      "channel": "Direct",
+      "sessions": 502,
+      "engaged_sessions": 320
+    },
+    {
+      "month": "2026-01",
+      "channel": "Organic Search",
+      "sessions": 1605,
+      "engaged_sessions": 1249
+    },
+    {
+      "month": "2026-01",
+      "channel": "Referral",
+      "sessions": 35,
+      "engaged_sessions": 26
+    },
+    {
+      "month": "2026-01",
+      "channel": "Unassigned",
+      "sessions": 50,
+      "engaged_sessions": 33
+    },
+    {
+      "month": "2026-02",
+      "channel": "Direct",
+      "sessions": 295,
+      "engaged_sessions": 167
+    },
+    {
+      "month": "2026-02",
+      "channel": "Organic Search",
+      "sessions": 619,
+      "engaged_sessions": 493
+    },
+    {
+      "month": "2026-02",
+      "channel": "Referral",
+      "sessions": 26,
+      "engaged_sessions": 17
+    },
+    {
+      "month": "2026-02",
+      "channel": "Unassigned",
+      "sessions": 19,
+      "engaged_sessions": 11
+    },
+    {
+      "month": "2026-03",
+      "channel": "Direct",
+      "sessions": 1208,
+      "engaged_sessions": 505
+    },
+    {
+      "month": "2026-03",
+      "channel": "Organic Search",
+      "sessions": 1214,
+      "engaged_sessions": 940
+    },
+    {
+      "month": "2026-03",
+      "channel": "Organic Social",
+      "sessions": 2,
+      "engaged_sessions": 1
+    },
+    {
+      "month": "2026-03",
+      "channel": "Referral",
+      "sessions": 101,
+      "engaged_sessions": 82
+    },
+    {
+      "month": "2026-03",
+      "channel": "Unassigned",
+      "sessions": 47,
+      "engaged_sessions": 24
+    },
+    {
+      "month": "2026-04",
+      "channel": "Direct",
+      "sessions": 806,
+      "engaged_sessions": 366
+    },
+    {
+      "month": "2026-04",
+      "channel": "Organic Search",
+      "sessions": 1003,
+      "engaged_sessions": 789
+    },
+    {
+      "month": "2026-04",
+      "channel": "Organic Social",
+      "sessions": 2,
+      "engaged_sessions": 1
+    },
+    {
+      "month": "2026-04",
+      "channel": "Referral",
+      "sessions": 67,
+      "engaged_sessions": 47
+    },
+    {
+      "month": "2026-04",
+      "channel": "Unassigned",
+      "sessions": 27,
+      "engaged_sessions": 12
+    },
+    {
+      "month": "2026-05",
+      "channel": "Direct",
+      "sessions": 1557,
+      "engaged_sessions": 887
+    },
+    {
+      "month": "2026-05",
+      "channel": "Organic Search",
+      "sessions": 1022,
+      "engaged_sessions": 786
+    },
+    {
+      "month": "2026-05",
+      "channel": "Organic Social",
+      "sessions": 10,
+      "engaged_sessions": 9
+    },
+    {
+      "month": "2026-05",
+      "channel": "Referral",
+      "sessions": 113,
+      "engaged_sessions": 83
+    },
+    {
+      "month": "2026-05",
+      "channel": "Unassigned",
+      "sessions": 46,
+      "engaged_sessions": 34
+    },
+    {
+      "month": "2026-06",
+      "channel": "AI Assistant",
+      "sessions": 32,
+      "engaged_sessions": 19
+    },
+    {
+      "month": "2026-06",
+      "channel": "Direct",
+      "sessions": 2508,
+      "engaged_sessions": 1113
+    },
+    {
+      "month": "2026-06",
+      "channel": "Organic Search",
+      "sessions": 1665,
+      "engaged_sessions": 1218
+    },
+    {
+      "month": "2026-06",
+      "channel": "Organic Social",
+      "sessions": 17,
+      "engaged_sessions": 8
+    },
+    {
+      "month": "2026-06",
+      "channel": "Referral",
+      "sessions": 150,
+      "engaged_sessions": 78
+    },
+    {
+      "month": "2026-06",
+      "channel": "Unassigned",
+      "sessions": 34,
+      "engaged_sessions": 13
+    },
+    {
+      "month": "2026-07",
+      "channel": "AI Assistant",
+      "sessions": 102,
+      "engaged_sessions": 66
+    },
+    {
+      "month": "2026-07",
+      "channel": "Direct",
+      "sessions": 2141,
+      "engaged_sessions": 1279
+    },
+    {
+      "month": "2026-07",
+      "channel": "Organic Search",
+      "sessions": 2800,
+      "engaged_sessions": 1975
+    },
+    {
+      "month": "2026-07",
+      "channel": "Organic Social",
+      "sessions": 9,
+      "engaged_sessions": 1
+    },
+    {
+      "month": "2026-07",
+      "channel": "Referral",
+      "sessions": 270,
+      "engaged_sessions": 174
+    },
+    {
+      "month": "2026-07",
+      "channel": "Unassigned",
+      "sessions": 11,
+      "engaged_sessions": 2
+    },
+    {
+      "month": "2026-08",
+      "channel": "AI Assistant",
+      "sessions": 96,
+      "engaged_sessions": 69
+    },
+    {
+      "month": "2026-08",
+      "channel": "Direct",
+      "sessions": 1386,
+      "engaged_sessions": 855
+    },
+    {
+      "month": "2026-08",
+      "channel": "Organic Search",
+      "sessions": 2889,
+      "engaged_sessions": 1953
+    },
+    {
+      "month": "2026-08",
+      "channel": "Organic Social",
+      "sessions": 1,
+      "engaged_sessions": 1
+    },
+    {
+      "month": "2026-08",
+      "channel": "Referral",
+      "sessions": 346,
+      "engaged_sessions": 246
+    },
+    {
+      "month": "2026-08",
+      "channel": "Unassigned",
+      "sessions": 7,
+      "engaged_sessions": 0
+    },
+    {
+      "month": "2026-09",
+      "channel": "AI Assistant",
+      "sessions": 112,
+      "engaged_sessions": 76
+    },
+    {
+      "month": "2026-09",
+      "channel": "Direct",
+      "sessions": 1086,
+      "engaged_sessions": 576
+    },
+    {
+      "month": "2026-09",
+      "channel": "Organic Search",
+      "sessions": 3240,
+      "engaged_sessions": 2167
+    },
+    {
+      "month": "2026-09",
+      "channel": "Referral",
+      "sessions": 146,
+      "engaged_sessions": 108
+    },
+    {
+      "month": "2026-09",
+      "channel": "Unassigned",
+      "sessions": 12,
+      "engaged_sessions": 6
+    },
+    {
+      "month": "2026-10",
+      "channel": "AI Assistant",
+      "sessions": 178,
+      "engaged_sessions": 95
+    },
+    {
+      "month": "2026-10",
+      "channel": "Direct",
+      "sessions": 1350,
+      "engaged_sessions": 721
+    },
+    {
+      "month": "2026-10",
+      "channel": "Organic Search",
+      "sessions": 5149,
+      "engaged_sessions": 3405
+    },
+    {
+      "month": "2026-10",
+      "channel": "Organic Social",
+      "sessions": 5,
+      "engaged_sessions": 4
+    },
+    {
+      "month": "2026-10",
+      "channel": "Referral",
+      "sessions": 70,
+      "engaged_sessions": 45
+    },
+    {
+      "month": "2026-10",
+      "channel": "Unassigned",
+      "sessions": 12,
+      "engaged_sessions": 0
+    },
+    {
+      "month": "2026-11",
+      "channel": "AI Assistant",
+      "sessions": 104,
+      "engaged_sessions": 67
+    },
+    {
+      "month": "2026-11",
+      "channel": "Direct",
+      "sessions": 1037,
+      "engaged_sessions": 310
+    },
+    {
+      "month": "2026-11",
+      "channel": "Organic Search",
+      "sessions": 2431,
+      "engaged_sessions": 1649
+    },
+    {
+      "month": "2026-11",
+      "channel": "Organic Social",
+      "sessions": 6,
+      "engaged_sessions": 6
+    },
+    {
+      "month": "2026-11",
+      "channel": "Paid Search",
+      "sessions": 38,
+      "engaged_sessions": 33
+    },
+    {
+      "month": "2026-11",
+      "channel": "Referral",
+      "sessions": 33,
+      "engaged_sessions": 18
+    },
+    {
+      "month": "2026-11",
+      "channel": "Unassigned",
+      "sessions": 40,
+      "engaged_sessions": 0
+    }
+  ],
+  "direct_traffic_anomaly": {
+    "note": "Since March 2026, Singapore direct stays between 0.8k and 2.5k sessions a month. Spikes come from abroad with very low engagement.",
+    "months": [
+      {
+        "month": "2026-06",
+        "direct_total": 6991,
+        "direct_singapore": 2508,
+        "direct_outside_singapore": 4483,
+        "engagement_rate_outside_sg_pct": 6.5
+      },
+      {
+        "month": "2026-11",
+        "direct_total": 8008,
+        "direct_singapore": 1037,
+        "direct_outside_singapore": 6971,
+        "engagement_rate_outside_sg_pct": 5.5,
+        "top_countries": {
+          "US": 1759,
+          "Brazil": 1089,
+          "Argentina": 392,
+          "HongKong": 336,
+          "Vietnam": 320,
+          "Indonesia": 310,
+          "Germany": 290,
+          "Colombia": 278
+        }
+      }
+    ]
+  },
+  "organic_landing_pages_top150": [
+    {
+      "path": "/",
+      "sessions": 12040,
+      "engaged_sessions": 10271,
+      "engagement_rate_pct": 85.3,
+      "page_type": "homepage"
+    },
+    {
+      "path": "(not set)",
+      "sessions": 1436,
+      "engaged_sessions": 39,
+      "engagement_rate_pct": 2.7,
+      "page_type": "not_set"
+    },
+    {
+      "path": "/product/goneo-bladeless-ceiling-fan-gf19a-wh-gn-fb-ig-tt-exclusive",
+      "sessions": 731,
+      "engaged_sessions": 437,
+      "engagement_rate_pct": 59.8,
+      "page_type": "product"
+    },
+    {
+      "path": "/app-home",
+      "sessions": 717,
+      "engaged_sessions": 620,
+      "engagement_rate_pct": 86.5,
+      "page_type": "utility"
+    },
+    {
+      "path": "/ang-mo-kio-branch",
+      "sessions": 226,
+      "engaged_sessions": 159,
+      "engagement_rate_pct": 70.4,
+      "page_type": "showroom"
+    },
+    {
+      "path": "/shop",
+      "sessions": 201,
+      "engaged_sessions": 147,
+      "engagement_rate_pct": 73.1,
+      "page_type": "category"
+    },
+    {
+      "path": "/contact",
+      "sessions": 194,
+      "engaged_sessions": 110,
+      "engagement_rate_pct": 56.7,
+      "page_type": "other"
+    },
+    {
+      "path": "/product-category/lighting/page/2",
+      "sessions": 184,
+      "engaged_sessions": 157,
+      "engagement_rate_pct": 85.3,
+      "page_type": "category"
+    },
+    {
+      "path": "/2026/08/28/hdb-lighting-ideas",
+      "sessions": 169,
+      "engaged_sessions": 102,
+      "engagement_rate_pct": 60.4,
+      "page_type": "blog"
+    },
+    {
+      "path": "/product-category/lighting/ceiling-light-lighting",
+      "sessions": 164,
+      "engaged_sessions": 112,
+      "engagement_rate_pct": 68.3,
+      "page_type": "category"
+    },
+    {
+      "path": "/login",
+      "sessions": 155,
+      "engaged_sessions": 140,
+      "engagement_rate_pct": 90.3,
+      "page_type": "utility"
+    },
+    {
+      "path": "/toh-guan-branch",
+      "sessions": 153,
+      "engaged_sessions": 96,
+      "engagement_rate_pct": 62.7,
+      "page_type": "showroom"
+    },
+    {
+      "path": "/lighting-cate/wall-light",
+      "sessions": 151,
+      "engaged_sessions": 131,
+      "engagement_rate_pct": 86.8,
+      "page_type": "category"
+    },
+    {
+      "path": "/2026/08/27/ceiling-fan-hdb-singapore-guide",
+      "sessions": 132,
+      "engaged_sessions": 77,
+      "engagement_rate_pct": 58.3,
+      "page_type": "blog"
+    },
+    {
+      "path": "/product-category/lighting",
+      "sessions": 129,
+      "engaged_sessions": 90,
+      "engagement_rate_pct": 69.8,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/lighting/strip-light",
+      "sessions": 129,
+      "engaged_sessions": 65,
+      "engagement_rate_pct": 50.4,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/lighting/light-tube",
+      "sessions": 115,
+      "engaged_sessions": 80,
+      "engagement_rate_pct": 69.6,
+      "page_type": "category"
+    },
+    {
+      "path": "/branches",
+      "sessions": 109,
+      "engaged_sessions": 74,
+      "engagement_rate_pct": 67.9,
+      "page_type": "showroom"
+    },
+    {
+      "path": "/new-world-branch",
+      "sessions": 101,
+      "engaged_sessions": 46,
+      "engagement_rate_pct": 45.5,
+      "page_type": "showroom"
+    },
+    {
+      "path": "/app",
+      "sessions": 96,
+      "engaged_sessions": 76,
+      "engagement_rate_pct": 79.2,
+      "page_type": "utility"
+    },
+    {
+      "path": "/product-category/fan-air-circulation/ceiling-fan",
+      "sessions": 96,
+      "engaged_sessions": 64,
+      "engagement_rate_pct": 66.7,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/lighting/track-light/magnetic-track-light",
+      "sessions": 90,
+      "engaged_sessions": 55,
+      "engagement_rate_pct": 61.1,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/goneo-bladeless-ceiling-fan-specification-38-48",
+      "sessions": 88,
+      "engaged_sessions": 28,
+      "engagement_rate_pct": 31.8,
+      "page_type": "product"
+    },
+    {
+      "path": "/sim-ave-branch",
+      "sessions": 84,
+      "engaged_sessions": 48,
+      "engagement_rate_pct": 57.1,
+      "page_type": "showroom"
+    },
+    {
+      "path": "/contact-us",
+      "sessions": 83,
+      "engaged_sessions": 50,
+      "engagement_rate_pct": 60.2,
+      "page_type": "other"
+    },
+    {
+      "path": "/woodland-branch",
+      "sessions": 80,
+      "engaged_sessions": 25,
+      "engagement_rate_pct": 31.2,
+      "page_type": "showroom"
+    },
+    {
+      "path": "/product/lighting-hub-t8-tube-light-2ft-600mm",
+      "sessions": 78,
+      "engaged_sessions": 56,
+      "engagement_rate_pct": 71.8,
+      "page_type": "product"
+    },
+    {
+      "path": "/2026/09/20/what-can-i-buy-with-climate-vouchers-singapore",
+      "sessions": 69,
+      "engaged_sessions": 46,
+      "engagement_rate_pct": 66.7,
+      "page_type": "blog"
+    },
+    {
+      "path": "/climate-voucher-eligible",
+      "sessions": 68,
+      "engaged_sessions": 48,
+      "engagement_rate_pct": 70.6,
+      "page_type": "other"
+    },
+    {
+      "path": "/loginregister",
+      "sessions": 67,
+      "engaged_sessions": 43,
+      "engagement_rate_pct": 64.2,
+      "page_type": "utility"
+    },
+    {
+      "path": "/product-category/lighting/downlight",
+      "sessions": 64,
+      "engaged_sessions": 47,
+      "engagement_rate_pct": 73.4,
+      "page_type": "category"
+    },
+    {
+      "path": "/2026/09/24/hdb-gas-water-heater-guide-singapore",
+      "sessions": 58,
+      "engaged_sessions": 40,
+      "engagement_rate_pct": 69.0,
+      "page_type": "blog"
+    },
+    {
+      "path": "/2026/10/06/macro-skin-care-gas-water-heater-ma-s10-singapore",
+      "sessions": 58,
+      "engaged_sessions": 38,
+      "engagement_rate_pct": 65.5,
+      "page_type": "blog"
+    },
+    {
+      "path": "/2026/10/10/bladeless-ceiling-fan-pros-and-cons-singapore",
+      "sessions": 57,
+      "engaged_sessions": 36,
+      "engagement_rate_pct": 63.2,
+      "page_type": "blog"
+    },
+    {
+      "path": "/product-category/switches-sockets/power-track",
+      "sessions": 57,
+      "engaged_sessions": 37,
+      "engagement_rate_pct": 64.9,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/strip-light-cob-480-12v-3000k-4000k-6500k-copy",
+      "sessions": 57,
+      "engaged_sessions": 38,
+      "engagement_rate_pct": 66.7,
+      "page_type": "product"
+    },
+    {
+      "path": "/product-category/commercial-lighting/high-bay-light",
+      "sessions": 55,
+      "engaged_sessions": 45,
+      "engagement_rate_pct": 81.8,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/lighting/ceiling-light-lighting/page/2",
+      "sessions": 53,
+      "engaged_sessions": 28,
+      "engagement_rate_pct": 52.8,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/lighting/ceiling-light-lighting/page/4",
+      "sessions": 53,
+      "engaged_sessions": 32,
+      "engagement_rate_pct": 60.4,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/lighting-hub-t8-tube-light-4ft-1200mm",
+      "sessions": 52,
+      "engaged_sessions": 36,
+      "engagement_rate_pct": 69.2,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/mowe-decco-canberra-36″-42″-52″-smart-ceiling-fan",
+      "sessions": 52,
+      "engaged_sessions": 25,
+      "engagement_rate_pct": 48.1,
+      "page_type": "product"
+    },
+    {
+      "path": "/2026/10/08/dc-vs-ac-ceiling-fan-singapore",
+      "sessions": 51,
+      "engaged_sessions": 12,
+      "engagement_rate_pct": 23.5,
+      "page_type": "blog"
+    },
+    {
+      "path": "/product-category/lighting/track-light",
+      "sessions": 50,
+      "engaged_sessions": 40,
+      "engagement_rate_pct": 80.0,
+      "page_type": "category"
+    },
+    {
+      "path": "/lighting-cate/ceiling-light",
+      "sessions": 49,
+      "engaged_sessions": 32,
+      "engagement_rate_pct": 65.3,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/fan-air-circulation/corner-fan",
+      "sessions": 49,
+      "engaged_sessions": 35,
+      "engagement_rate_pct": 71.4,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/ceiling-light-model-cl-pion-18w-24w-36w48w",
+      "sessions": 49,
+      "engaged_sessions": 21,
+      "engagement_rate_pct": 42.9,
+      "page_type": "product"
+    },
+    {
+      "path": "/product-category/lighting/aluminium-profile",
+      "sessions": 48,
+      "engaged_sessions": 33,
+      "engagement_rate_pct": 68.8,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/promotion",
+      "sessions": 47,
+      "engaged_sessions": 36,
+      "engagement_rate_pct": 76.6,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/e27-lamp-holder",
+      "sessions": 47,
+      "engaged_sessions": 22,
+      "engagement_rate_pct": 46.8,
+      "page_type": "product"
+    },
+    {
+      "path": "/cart",
+      "sessions": 45,
+      "engaged_sessions": 26,
+      "engagement_rate_pct": 57.8,
+      "page_type": "utility"
+    },
+    {
+      "path": "/product-category/fan-air-circulation",
+      "sessions": 44,
+      "engaged_sessions": 12,
+      "engagement_rate_pct": 27.3,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/lighting/light-bulb",
+      "sessions": 44,
+      "engaged_sessions": 32,
+      "engagement_rate_pct": 72.7,
+      "page_type": "category"
+    },
+    {
+      "path": "/brand/ecodo",
+      "sessions": 43,
+      "engaged_sessions": 35,
+      "engagement_rate_pct": 81.4,
+      "page_type": "brand"
+    },
+    {
+      "path": "/product-category/lighting/pendant-light",
+      "sessions": 43,
+      "engaged_sessions": 32,
+      "engagement_rate_pct": 74.4,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/switches-sockets/switches",
+      "sessions": 43,
+      "engaged_sessions": 28,
+      "engagement_rate_pct": 65.1,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/philips-corepro-led-plc-2-pin-g24d-（6-5w-7-5w-10-5w）",
+      "sessions": 42,
+      "engaged_sessions": 30,
+      "engagement_rate_pct": 71.4,
+      "page_type": "product"
+    },
+    {
+      "path": "/affiliates",
+      "sessions": 41,
+      "engaged_sessions": 14,
+      "engagement_rate_pct": 34.1,
+      "page_type": "utility"
+    },
+    {
+      "path": "/installation-service",
+      "sessions": 41,
+      "engaged_sessions": 25,
+      "engagement_rate_pct": 61.0,
+      "page_type": "other"
+    },
+    {
+      "path": "/product/slimline-led-exit-sign-double-sided-left-right-arrow",
+      "sessions": 41,
+      "engaged_sessions": 20,
+      "engagement_rate_pct": 48.8,
+      "page_type": "product"
+    },
+    {
+      "path": "/2026/10/09/lighting-colour-temperature-guide-singapore",
+      "sessions": 40,
+      "engaged_sessions": 27,
+      "engagement_rate_pct": 67.5,
+      "page_type": "blog"
+    },
+    {
+      "path": "/product-category/lighting/ceiling-light-lighting/page/3",
+      "sessions": 40,
+      "engaged_sessions": 15,
+      "engagement_rate_pct": 37.5,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/philips-led-recessed-downlight-round-3-tone",
+      "sessions": 39,
+      "engaged_sessions": 15,
+      "engagement_rate_pct": 38.5,
+      "page_type": "product"
+    },
+    {
+      "path": "/product-category/fans/ceiling-fan-fans",
+      "sessions": 38,
+      "engaged_sessions": 34,
+      "engagement_rate_pct": 89.5,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/switches-sockets",
+      "sessions": 38,
+      "engaged_sessions": 18,
+      "engagement_rate_pct": 47.4,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/lighting-hub-t5-tube-light-4ft-1200mm",
+      "sessions": 37,
+      "engaged_sessions": 23,
+      "engagement_rate_pct": 62.2,
+      "page_type": "product"
+    },
+    {
+      "path": "/fans-cate/ceiling-fan",
+      "sessions": 35,
+      "engaged_sessions": 22,
+      "engagement_rate_pct": 62.9,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/philips-t8-led-tube-single-ended-8w-16w",
+      "sessions": 35,
+      "engaged_sessions": 14,
+      "engagement_rate_pct": 40.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/product-category/commercial-lighting/flood-light",
+      "sessions": 34,
+      "engaged_sessions": 26,
+      "engagement_rate_pct": 76.5,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/fan-air-circulation/page/2",
+      "sessions": 33,
+      "engaged_sessions": 15,
+      "engagement_rate_pct": 45.5,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/ecodo-cob-led-24v-rgb-strip-light-576-leds",
+      "sessions": 33,
+      "engaged_sessions": 17,
+      "engagement_rate_pct": 51.5,
+      "page_type": "product"
+    },
+    {
+      "path": "/product-category/lighting/wall-light",
+      "sessions": 30,
+      "engaged_sessions": 26,
+      "engagement_rate_pct": 86.7,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/fanco-rito-3-4652-ceiling-fan",
+      "sessions": 30,
+      "engaged_sessions": 5,
+      "engagement_rate_pct": 16.7,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/mistral-air-purifier-with-remote-control-mapf530",
+      "sessions": 30,
+      "engaged_sessions": 18,
+      "engagement_rate_pct": 60.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/schneiravataron-c-switch-white",
+      "sessions": 30,
+      "engaged_sessions": 18,
+      "engagement_rate_pct": 60.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/fanco-retract-42-ceiling-fan-2",
+      "sessions": 29,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 44.8,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/mirror-louver-fitting-recessed",
+      "sessions": 29,
+      "engaged_sessions": 16,
+      "engagement_rate_pct": 55.2,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/kdk-yu50x-wh-50cm-industrial-wall-fan",
+      "sessions": 28,
+      "engaged_sessions": 14,
+      "engagement_rate_pct": 50.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/led-high-bay-light-200w",
+      "sessions": 28,
+      "engaged_sessions": 18,
+      "engagement_rate_pct": 64.3,
+      "page_type": "product"
+    },
+    {
+      "path": "/product-category/commercial-lighting/office-panel-light",
+      "sessions": 27,
+      "engaged_sessions": 22,
+      "engagement_rate_pct": 81.5,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/t5-seamless-bracket-light-tube",
+      "sessions": 27,
+      "engaged_sessions": 10,
+      "engagement_rate_pct": 37.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/2026/10/08/how-to-choose-ceiling-light-singapore",
+      "sessions": 26,
+      "engaged_sessions": 21,
+      "engagement_rate_pct": 80.8,
+      "page_type": "blog"
+    },
+    {
+      "path": "/product/kinetic-switch",
+      "sessions": 26,
+      "engaged_sessions": 18,
+      "engagement_rate_pct": 69.2,
+      "page_type": "product"
+    },
+    {
+      "path": "/2026/09/24/gas-vs-electric-water-heater-singapore",
+      "sessions": 25,
+      "engaged_sessions": 19,
+      "engagement_rate_pct": 76.0,
+      "page_type": "blog"
+    },
+    {
+      "path": "/product-category/lighting/downlight-lighting",
+      "sessions": 25,
+      "engaged_sessions": 23,
+      "engagement_rate_pct": 92.0,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/smart-home",
+      "sessions": 25,
+      "engaged_sessions": 19,
+      "engagement_rate_pct": 76.0,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/gu10-surface-mounted-downlight-fitting-double-head-white-black",
+      "sessions": 25,
+      "engaged_sessions": 12,
+      "engagement_rate_pct": 48.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/lighting-hub-led-ceiling-light-series-2581-casing-only",
+      "sessions": 25,
+      "engaged_sessions": 16,
+      "engagement_rate_pct": 64.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/philips-sceneswitch-led-a60-bulb-e27-8w-70w-3-color-3000k-6500k",
+      "sessions": 25,
+      "engaged_sessions": 17,
+      "engagement_rate_pct": 68.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/2026/09/08/office-lighting-guide-singapore",
+      "sessions": 24,
+      "engaged_sessions": 11,
+      "engagement_rate_pct": 45.8,
+      "page_type": "blog"
+    },
+    {
+      "path": "/product-category/fan-air-circulation/page/3",
+      "sessions": 24,
+      "engaged_sessions": 10,
+      "engagement_rate_pct": 41.7,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/ozo-surface-power-track",
+      "sessions": 24,
+      "engaged_sessions": 5,
+      "engagement_rate_pct": 20.8,
+      "page_type": "product"
+    },
+    {
+      "path": "/brand/ecodo/page/3",
+      "sessions": 23,
+      "engaged_sessions": 19,
+      "engagement_rate_pct": 82.6,
+      "page_type": "brand"
+    },
+    {
+      "path": "/product-category/commercial-lighting",
+      "sessions": 23,
+      "engaged_sessions": 15,
+      "engagement_rate_pct": 65.2,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/fan-air-circulation/ceiling-fan/page/2",
+      "sessions": 23,
+      "engaged_sessions": 6,
+      "engagement_rate_pct": 26.1,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/smart-home/smart-switch",
+      "sessions": 23,
+      "engaged_sessions": 18,
+      "engagement_rate_pct": 78.3,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/ecodo-recessed-spotlight-nova-5700-white-sunset-12w-zigbee",
+      "sessions": 23,
+      "engaged_sessions": 12,
+      "engagement_rate_pct": 52.2,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/led-surface-panel-light-round-24w",
+      "sessions": 23,
+      "engaged_sessions": 15,
+      "engagement_rate_pct": 65.2,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/philips-ufo-led-bulb-e27-daylight-6500k-15w-24w",
+      "sessions": 23,
+      "engaged_sessions": 18,
+      "engagement_rate_pct": 78.3,
+      "page_type": "product"
+    },
+    {
+      "path": "/2026/10/13/downlight-cut-out-size-guide",
+      "sessions": 22,
+      "engaged_sessions": 12,
+      "engagement_rate_pct": 54.5,
+      "page_type": "blog"
+    },
+    {
+      "path": "/product-category/fan-air-circulation/ceiling-fan/page/4",
+      "sessions": 22,
+      "engaged_sessions": 3,
+      "engagement_rate_pct": 13.6,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/philips-meson-led-downlight-round-17w",
+      "sessions": 22,
+      "engaged_sessions": 9,
+      "engagement_rate_pct": 40.9,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/philips-trueforce-core-led-highbay-e27-e40-6500k-25w-30w-40w-50w",
+      "sessions": 22,
+      "engaged_sessions": 15,
+      "engagement_rate_pct": 68.2,
+      "page_type": "product"
+    },
+    {
+      "path": "/product-category/fan-air-circulation/page/10",
+      "sessions": 21,
+      "engaged_sessions": 6,
+      "engagement_rate_pct": 28.6,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/outdoor",
+      "sessions": 21,
+      "engaged_sessions": 21,
+      "engagement_rate_pct": 100.0,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/aluminium-led-profilexl-014）",
+      "sessions": 21,
+      "engaged_sessions": 14,
+      "engagement_rate_pct": 66.7,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/ceiling-light-model-2618-400-black-24w-36w",
+      "sessions": 21,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 61.9,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/ozo-recessed-power-track",
+      "sessions": 21,
+      "engaged_sessions": 8,
+      "engagement_rate_pct": 38.1,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/philips-led-bright-e27-bulb-13w-15w-17w",
+      "sessions": 21,
+      "engaged_sessions": 17,
+      "engagement_rate_pct": 81.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/2026/09/26/mowe-smart-kitchen-singapore",
+      "sessions": 20,
+      "engaged_sessions": 15,
+      "engagement_rate_pct": 75.0,
+      "page_type": "blog"
+    },
+    {
+      "path": "/about-us-3",
+      "sessions": 20,
+      "engaged_sessions": 16,
+      "engagement_rate_pct": 80.0,
+      "page_type": "other"
+    },
+    {
+      "path": "/brand/sunshine",
+      "sessions": 20,
+      "engaged_sessions": 17,
+      "engagement_rate_pct": 85.0,
+      "page_type": "brand"
+    },
+    {
+      "path": "/page/2",
+      "sessions": 20,
+      "engaged_sessions": 8,
+      "engagement_rate_pct": 40.0,
+      "page_type": "other"
+    },
+    {
+      "path": "/product-category/lighting/ceiling-light-lighting/page/5",
+      "sessions": 20,
+      "engaged_sessions": 3,
+      "engagement_rate_pct": 15.0,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/led-ceiling-light-module-chipboard",
+      "sessions": 20,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 65.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/mistral-12-electric-table-fan",
+      "sessions": 20,
+      "engaged_sessions": 12,
+      "engagement_rate_pct": 60.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/msh303m-instant-shower-heater",
+      "sessions": 20,
+      "engaged_sessions": 6,
+      "engagement_rate_pct": 30.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/aluminium-led-profilexl-329）",
+      "sessions": 19,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 68.4,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/fanco-bee-26-dc-ceiling-fan-with-24w-led-light",
+      "sessions": 19,
+      "engaged_sessions": 11,
+      "engagement_rate_pct": 57.9,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/modern-led-reading-wall-light-with-usb-port-switch-black",
+      "sessions": 19,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 68.4,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/mowe-gale-36″-46″-52″-smart-ceiling-fan-2",
+      "sessions": 19,
+      "engaged_sessions": 14,
+      "engagement_rate_pct": 73.7,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/philips-led-recessed-downlight-9w-square",
+      "sessions": 19,
+      "engaged_sessions": 15,
+      "engagement_rate_pct": 78.9,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/schneiravataron-c-switch-dark-grey",
+      "sessions": 19,
+      "engaged_sessions": 5,
+      "engagement_rate_pct": 26.3,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/strip-light-cob-12v-24v-3000k-4000k-6500k",
+      "sessions": 19,
+      "engaged_sessions": 10,
+      "engagement_rate_pct": 52.6,
+      "page_type": "product"
+    },
+    {
+      "path": "/2026/09/01/hdb-bto-lighting-ideas-a-room-by-room-guide",
+      "sessions": 18,
+      "engaged_sessions": 9,
+      "engagement_rate_pct": 50.0,
+      "page_type": "blog"
+    },
+    {
+      "path": "/brand/philips",
+      "sessions": 18,
+      "engaged_sessions": 15,
+      "engagement_rate_pct": 83.3,
+      "page_type": "brand"
+    },
+    {
+      "path": "/product-category/emergency-lighting/emergency-light",
+      "sessions": 18,
+      "engaged_sessions": 12,
+      "engagement_rate_pct": 66.7,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/lighting/power-supply",
+      "sessions": 18,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 72.2,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/lighting-hub-led-ceiling-light-series-cb05-casing-only",
+      "sessions": 18,
+      "engaged_sessions": 11,
+      "engagement_rate_pct": 61.1,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/mistral-18-dc-stand-fan-with-remote-control",
+      "sessions": 18,
+      "engaged_sessions": 10,
+      "engagement_rate_pct": 55.6,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/mistral-8-dc-high-velocity-table-fan",
+      "sessions": 18,
+      "engaged_sessions": 7,
+      "engagement_rate_pct": 38.9,
+      "page_type": "product"
+    },
+    {
+      "path": "/product-category/emergency-lighting",
+      "sessions": 17,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 76.5,
+      "page_type": "category"
+    },
+    {
+      "path": "/product-category/lighting/wall-light/page/4",
+      "sessions": 17,
+      "engaged_sessions": 1,
+      "engagement_rate_pct": 5.9,
+      "page_type": "category"
+    },
+    {
+      "path": "/product/ecodo-recessed-spotlight-nova-5700-black-sunset-12w-zigbee-copy",
+      "sessions": 17,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 76.5,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/fanco-b-star-36-46-52-ceiling-fan",
+      "sessions": 17,
+      "engaged_sessions": 9,
+      "engagement_rate_pct": 52.9,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/fanco-extension-rod",
+      "sessions": 17,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 76.5,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/smart-gas-water-heater-life-by-city-energy-l10wfe",
+      "sessions": 17,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 76.5,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/strip-light-driver-12v-24v",
+      "sessions": 17,
+      "engaged_sessions": 11,
+      "engagement_rate_pct": 64.7,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/ufo-high-bay",
+      "sessions": 17,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 76.5,
+      "page_type": "product"
+    },
+    {
+      "path": "/2026/09/20/led-strip-light-ideas-singapore",
+      "sessions": 16,
+      "engaged_sessions": 8,
+      "engagement_rate_pct": 50.0,
+      "page_type": "blog"
+    },
+    {
+      "path": "/2026/10/09/light-bulb-base-types-e27-b22-e14-gu10-singapore",
+      "sessions": 16,
+      "engaged_sessions": 8,
+      "engagement_rate_pct": 50.0,
+      "page_type": "blog"
+    },
+    {
+      "path": "/brand/fanco",
+      "sessions": 16,
+      "engaged_sessions": 14,
+      "engagement_rate_pct": 87.5,
+      "page_type": "brand"
+    },
+    {
+      "path": "/brand/goneo",
+      "sessions": 16,
+      "engaged_sessions": 9,
+      "engagement_rate_pct": 56.2,
+      "page_type": "brand"
+    },
+    {
+      "path": "/product/caterpillar-industrial-ceiling-fan-cf-100-100",
+      "sessions": 16,
+      "engaged_sessions": 13,
+      "engagement_rate_pct": 81.2,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/ceiling-light-model-2536-whitewood-24w",
+      "sessions": 16,
+      "engaged_sessions": 5,
+      "engagement_rate_pct": 31.2,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/goneo-premium-switch-socket-series-grey",
+      "sessions": 16,
+      "engaged_sessions": 8,
+      "engagement_rate_pct": 50.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/lamp-holder-gu10-mr16-e27",
+      "sessions": 16,
+      "engaged_sessions": 9,
+      "engagement_rate_pct": 56.2,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/pendant-1e-bk-zd",
+      "sessions": 16,
+      "engaged_sessions": 4,
+      "engagement_rate_pct": 25.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/product/philips-led-recessed-downlight-12w-round",
+      "sessions": 16,
+      "engaged_sessions": 12,
+      "engagement_rate_pct": 75.0,
+      "page_type": "product"
+    },
+    {
+      "path": "/2026/10/13/ceiling-fan-direction-singapore",
+      "sessions": 15,
+      "engaged_sessions": 5,
+      "engagement_rate_pct": 33.3,
+      "page_type": "blog"
+    }
+  ],
+  "organic_by_page_type_top150": {
+    "homepage": 12040,
+    "category": 2530,
+    "product": 2379,
+    "not_set": 1436,
+    "utility": 1121,
+    "blog": 816,
+    "showroom": 753,
+    "other": 426,
+    "brand": 136
+  },
+  "organic_device_total": {
+    "mobile": 15291,
+    "desktop": 9886,
+    "tablet": 413,
+    "note": "12-month, UTC"
+  },
+  "device_by_channel": [
+    {
+      "channel": "Direct",
+      "device": "desktop",
+      "sessions": 22053
+    },
+    {
+      "channel": "Organic Search",
+      "device": "mobile",
+      "sessions": 15291
+    },
+    {
+      "channel": "Organic Search",
+      "device": "desktop",
+      "sessions": 9886
+    },
+    {
+      "channel": "Direct",
+      "device": "mobile",
+      "sessions": 9361
+    },
+    {
+      "channel": "Referral",
+      "device": "mobile",
+      "sessions": 1123
+    },
+    {
+      "channel": "Organic Search",
+      "device": "tablet",
+      "sessions": 413
+    },
+    {
+      "channel": "Referral",
+      "device": "desktop",
+      "sessions": 392
+    },
+    {
+      "channel": "AI Assistant",
+      "device": "mobile",
+      "sessions": 374
+    },
+    {
+      "channel": "Organic Social",
+      "device": "desktop",
+      "sessions": 336
+    },
+    {
+      "channel": "AI Assistant",
+      "device": "desktop",
+      "sessions": 296
+    },
+    {
+      "channel": "Organic Social",
+      "device": "mobile",
+      "sessions": 167
+    },
+    {
+      "channel": "Paid Search",
+      "device": "mobile",
+      "sessions": 55
+    }
+  ],
+  "purchases": [
+    {
+      "month": "2026-02",
+      "source": "(direct)/(none)",
+      "country": "Singapore",
+      "language": "en-gb",
+      "device": "desktop",
+      "landing_page": "/checkout",
+      "revenue": 99.25
+    },
+    {
+      "month": "2026-02",
+      "source": "(direct)/(none)",
+      "country": "Singapore",
+      "language": "en-sg",
+      "device": "mobile",
+      "landing_page": "/",
+      "revenue": 0
+    },
+    {
+      "month": "2026-03",
+      "source": "(direct)/(none)",
+      "country": "Singapore",
+      "language": "zh-cn",
+      "device": "mobile",
+      "landing_page": "/product/smart-robot-vacuum",
+      "revenue": 0
+    },
+    {
+      "month": "2026-03",
+      "source": "securecheckout.hit-pay.com/referral",
+      "country": "Singapore",
+      "language": "zh-cn",
+      "device": "desktop",
+      "landing_page": "/cart",
+      "revenue": 0
+    },
+    {
+      "month": "2026-10",
+      "source": "(direct)/(none)",
+      "country": "Singapore",
+      "language": "zh-cn",
+      "device": "mobile",
+      "landing_page": "/checkout/order-received/51292",
+      "revenue": 155.52
+    }
+  ],
+  "items_with_revenue": [
+    {
+      "item": "MOWE MW488F/MW548F ceiling fan",
+      "revenue": 236.55
+    },
+    {
+      "item": "Modern LED Geometric Ceiling Light",
+      "revenue": 155.52
+    },
+    {
+      "item": "T8 light tube fitting",
+      "revenue": 48.56
+    },
+    {
+      "item": "Lighting Hub T8 tube 4ft",
+      "revenue": 30.79
+    },
+    {
+      "item": "Lighting Hub T8 tube 2ft",
+      "revenue": 10.42
+    }
+  ],
+  "items_note": "Item revenue (S$481.84) does not match purchase revenue (S$254.76): another sign the ecommerce events are misconfigured.",
+  "tracking_issues": [
+    {
+      "issue": "HitPay payment gateway counted as referral",
+      "evidence": "checkout.hit-pay.com 508 sessions, securecheckout.hit-pay.com 273"
+    },
+    {
+      "issue": "Only purchase is a key event",
+      "evidence": "No WhatsApp, phone, B2B form or add_to_cart key events"
+    },
+    {
+      "issue": "Spam/internal referrers",
+      "evidence": "web313.gocloudeasy.com:2083 (29), :2087 (4), 127.0.0.1:8765 (4), crm.xiaoman.cn (7), erp.suweizhisou.com (3)"
+    },
+    {
+      "issue": "(not set) landing pages",
+      "evidence": "1,436 organic sessions, 2.7% engaged"
+    }
+  ],
+  "top_sources": [
+    {
+      "source_medium": "(direct)/(none)",
+      "sessions": 31684
+    },
+    {
+      "source_medium": "google/organic",
+      "sessions": 24334
+    },
+    {
+      "source_medium": "bing/organic",
+      "sessions": 818
+    },
+    {
+      "source_medium": "chatgpt.com/ai-assistant",
+      "sessions": 659
+    },
+    {
+      "source_medium": "checkout.hit-pay.com/referral",
+      "sessions": 508
+    },
+    {
+      "source_medium": "facebook.com/referral",
+      "sessions": 441
+    },
+    {
+      "source_medium": "l.wl.co/referral (WhatsApp)",
+      "sessions": 421
+    },
+    {
+      "source_medium": "sg.search.yahoo.com/referral",
+      "sessions": 352
+    },
+    {
+      "source_medium": "securecheckout.hit-pay.com/referral",
+      "sessions": 273
+    },
+    {
+      "source_medium": "ntp.msn.com/referral",
+      "sessions": 234
+    },
+    {
+      "source_medium": "chatgpt.com/(not set)",
+      "sessions": 209
+    },
+    {
+      "source_medium": "google/cpc",
+      "sessions": 65
+    },
+    {
+      "source_medium": "chatgpt.com/referral",
+      "sessions": 51
+    },
+    {
+      "source_medium": "maps.gov.sg/referral",
+      "sessions": 46
+    },
+    {
+      "source_medium": "yahoo/organic",
+      "sessions": 43
+    },
+    {
+      "source_medium": "duckduckgo/organic",
+      "sessions": 37
+    },
+    {
+      "source_medium": "m.baidu.com/referral",
+      "sessions": 35
+    }
+  ],
+  "language_singapore": {
+    "en_sg": 13568,
+    "en_us": 12598,
+    "en_gb": 9463,
+    "zh_cn": 2608,
+    "zh_sg": 799,
+    "en": 257,
+    "zh": 127,
+    "chinese_total": 3534,
+    "total_listed": 39420,
+    "chinese_share_pct": 9.0,
+    "purchases_from_zh_cn": 3
+  },
+  "site_search_terms": [
+    {
+      "term": "ceiling light",
+      "sessions": 141
+    },
+    {
+      "term": "water heater",
+      "sessions": 78
+    },
+    {
+      "term": "ceiling fan",
+      "sessions": 74
+    },
+    {
+      "term": "wall light",
+      "sessions": 68
+    },
+    {
+      "term": "fanco",
+      "sessions": 63
+    },
+    {
+      "term": "track light",
+      "sessions": 61
+    },
+    {
+      "term": "fan",
+      "sessions": 48
+    },
+    {
+      "term": "philips",
+      "sessions": 43
+    },
+    {
+      "term": "pendant light",
+      "sessions": 40
+    },
+    {
+      "term": "downlight",
+      "sessions": 40
+    },
+    {
+      "term": "kdk",
+      "sessions": 40
+    },
+    {
+      "term": "pendant",
+      "sessions": 39
+    },
+    {
+      "term": "gu10",
+      "sessions": 39
+    },
+    {
+      "term": "track",
+      "sessions": 37
+    },
+    {
+      "term": "bladeless",
+      "sessions": 37
+    },
+    {
+      "term": "goneo",
+      "sessions": 32
+    },
+    {
+      "term": "chandelier",
+      "sessions": 30
+    },
+    {
+      "term": "driver",
+      "sessions": 29
+    },
+    {
+      "term": "led",
+      "sessions": 28
+    },
+    {
+      "term": "t5",
+      "sessions": 22
+    },
+    {
+      "term": "led driver",
+      "sessions": 21
+    },
+    {
+      "term": "e27",
+      "sessions": 18
+    },
+    {
+      "term": "bladeless fan",
+      "sessions": 15
+    },
+    {
+      "term": "mowe",
+      "sessions": 14
+    },
+    {
+      "term": "t8",
+      "sessions": 13
+    },
+    {
+      "term": "ceiling lights",
+      "sessions": 12
+    },
+    {
+      "term": "t8 tube",
+      "sessions": 12
+    },
+    {
+      "term": "wall lights",
+      "sessions": 12
+    },
+    {
+      "term": "switch",
+      "sessions": 12
+    },
+    {
+      "term": "table lamp",
+      "sessions": 12
+    },
+    {
+      "term": "panel light",
+      "sessions": 12
+    },
+    {
+      "term": "recessed downlight",
+      "sessions": 11
+    },
+    {
+      "term": "fan light",
+      "sessions": 10
+    },
+    {
+      "term": "mirror",
+      "sessions": 10
+    },
+    {
+      "term": "recessed light",
+      "sessions": 10
+    },
+    {
+      "term": "spotlight",
+      "sessions": 10
+    },
+    {
+      "term": "flood light",
+      "sessions": 10
+    },
+    {
+      "term": "down light",
+      "sessions": 9
+    },
+    {
+      "term": "lamp",
+      "sessions": 9
+    },
+    {
+      "term": "light",
+      "sessions": 9
+    },
+    {
+      "term": "wall fan",
+      "sessions": 9
+    },
+    {
+      "term": "light with fan",
+      "sessions": 8
+    },
+    {
+      "term": "megaman",
+      "sessions": 8
+    },
+    {
+      "term": "nordic pendant lights",
+      "sessions": 8
+    },
+    {
+      "term": "outdoor",
+      "sessions": 8
+    },
+    {
+      "term": "pendent light",
+      "sessions": 8
+    },
+    {
+      "term": "bulb",
+      "sessions": 8
+    },
+    {
+      "term": "bull",
+      "sessions": 7
+    },
+    {
+      "term": "heater",
+      "sessions": 7
+    },
+    {
+      "term": "legrand",
+      "sessions": 7
+    },
+    {
+      "term": "led strip",
+      "sessions": 7
+    },
+    {
+      "term": "sensor light",
+      "sessions": 7
+    },
+    {
+      "term": "corner fan",
+      "sessions": 6
+    },
+    {
+      "term": "dining light",
+      "sessions": 6
+    },
+    {
+      "term": "ecodo",
+      "sessions": 6
+    },
+    {
+      "term": "ip65",
+      "sessions": 6
+    },
+    {
+      "term": "sensor",
+      "sessions": 6
+    },
+    {
+      "term": "bedroom light",
+      "sessions": 5
+    },
+    {
+      "term": "bladeless ceiling fan",
+      "sessions": 5
+    },
+    {
+      "term": "dining",
+      "sessions": 5
+    },
+    {
+      "term": "fandelier",
+      "sessions": 5
+    },
+    {
+      "term": "floor lamp",
+      "sessions": 5
+    },
+    {
+      "term": "led light",
+      "sessions": 5
+    },
+    {
+      "term": "led ceiling light",
+      "sessions": 5
+    },
+    {
+      "term": "led panel",
+      "sessions": 5
+    },
+    {
+      "term": "panel",
+      "sessions": 5
+    },
+    {
+      "term": "rito",
+      "sessions": 5
+    },
+    {
+      "term": "track lights",
+      "sessions": 5
+    },
+    {
+      "term": "wall",
+      "sessions": 5
+    },
+    {
+      "term": "dob",
+      "sessions": 5
+    },
+    {
+      "term": "power strip light",
+      "sessions": 5
+    },
+    {
+      "term": "2332",
+      "sessions": 4
+    },
+    {
+      "term": "baseless",
+      "sessions": 4
+    },
+    {
+      "term": "bathroom light",
+      "sessions": 4
+    },
+    {
+      "term": "bestar",
+      "sessions": 4
+    },
+    {
+      "term": "clw4-t-24w",
+      "sessions": 4
+    },
+    {
+      "term": "ceiling",
+      "sessions": 4
+    },
+    {
+      "term": "chipboard",
+      "sessions": 4
+    },
+    {
+      "term": "dining table",
+      "sessions": 4
+    },
+    {
+      "term": "dow light",
+      "sessions": 4
+    }
+  ]
+}

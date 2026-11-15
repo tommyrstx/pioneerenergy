@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { themeInitScript } from "@/components/theme";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -14,8 +15,11 @@ export const viewport: Viewport = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html lang="en-GB" className="h-full antialiased">
-      <body className="min-h-full">{children}</body>
+    <html lang="en-GB" data-theme="light" suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
+      </head>
+      <body>{children}</body>
     </html>
   );
 }
